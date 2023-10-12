@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\web-development\\level-2\\Assignment\\level2-assignment-9\\ari-techs-server\\logs\\winston\\successes\\.aca0a825f06f5ec1116440f95e7ba7fd7a8c9948-audit.json",
+    "files": [
+        {
+            "date": 1697102129888,
+            "name": "D:\\web-development\\level-2\\Assignment\\level2-assignment-9\\ari-techs-server\\logs\\winston\\successes\\phu-2023-12-10-15-success.log",
+            "hash": "a71d08de93375a11ac09f1a7f36661174be92a4cdf26ec3abdf6b8ccb945ae82"
+        },
+        {
+            "date": 1697104933870,
+            "name": "D:\\web-development\\level-2\\Assignment\\level2-assignment-9\\ari-techs-server\\logs\\winston\\successes\\phu-2023-12-10-16-success.log",
+            "hash": "b042f574749e51f09cd20db965024d41f48fbf57f5daa419487b70b43dee023b"
+        }
+    ],
+    "hashType": "sha256"
+}

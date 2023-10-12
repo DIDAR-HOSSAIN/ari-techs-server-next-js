@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\web-development\\level-2\\Assignment\\level2-assignment-9\\ari-techs-server\\logs\\winston\\errors\\.d6ac7c9ad9222ee0c84078d9b7aad4ae53af30c1-audit.json",
+    "files": [
+        {
+            "date": 1697102129892,
+            "name": "D:\\web-development\\level-2\\Assignment\\level2-assignment-9\\ari-techs-server\\logs\\winston\\errors\\phu-2023-12-10-15-error.log",
+            "hash": "ea63e63c90c570ef2fae5be9d7ea3f9037ad8dce7d974df2e3ace05bb121a2bd"
+        },
+        {
+            "date": 1697104933900,
+            "name": "D:\\web-development\\level-2\\Assignment\\level2-assignment-9\\ari-techs-server\\logs\\winston\\errors\\phu-2023-12-10-16-error.log",
+            "hash": "ea4105823819331c83f01d5051697658b60fa2594c918e826b1cf74e8b51e402"
+        }
+    ],
+    "hashType": "sha256"
+}
