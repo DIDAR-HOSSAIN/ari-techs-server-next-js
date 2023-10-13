@@ -6,14 +6,19 @@
     "auditLog": "D:\\web-development\\level-2\\Assignment\\level2-assignment-9\\ari-techs-server\\logs\\winston\\successes\\.aca0a825f06f5ec1116440f95e7ba7fd7a8c9948-audit.json",
     "files": [
         {
-            "date": 1697102129888,
-            "name": "D:\\web-development\\level-2\\Assignment\\level2-assignment-9\\ari-techs-server\\logs\\winston\\successes\\phu-2023-12-10-15-success.log",
-            "hash": "a71d08de93375a11ac09f1a7f36661174be92a4cdf26ec3abdf6b8ccb945ae82"
+            "date": 1697168821511,
+            "name": "D:\\web-development\\level-2\\Assignment\\level2-assignment-9\\ari-techs-server\\logs\\winston\\successes\\phu-2023-13-10-09-success.log",
+            "hash": "b32441d28e4b6b84aea30772ca18b2f53ff91df1d8bffec76f0617236cdc255e"
         },
         {
-            "date": 1697104933870,
-            "name": "D:\\web-development\\level-2\\Assignment\\level2-assignment-9\\ari-techs-server\\logs\\winston\\successes\\phu-2023-12-10-16-success.log",
-            "hash": "b042f574749e51f09cd20db965024d41f48fbf57f5daa419487b70b43dee023b"
+            "date": 1697185121010,
+            "name": "D:\\web-development\\level-2\\Assignment\\level2-assignment-9\\ari-techs-server\\logs\\winston\\successes\\phu-2023-13-10-14-success.log",
+            "hash": "56163af26e191acb1803fcfab2e6445c73a41f3121291d60a43be5013f2ff56f"
+        },
+        {
+            "date": 1697196409499,
+            "name": "D:\\web-development\\level-2\\Assignment\\level2-assignment-9\\ari-techs-server\\logs\\winston\\successes\\phu-2023-13-10-17-success.log",
+            "hash": "842839ba587adae89c3de4856fa6e682ae67b88c8f837a3557bc61e10ad4f78f"
         }
     ],
     "hashType": "sha256"
